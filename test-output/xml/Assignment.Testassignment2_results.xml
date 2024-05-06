@@ -4,24 +4,24 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="3.989">
+           time="4.545">
     <properties></properties>
 
 
 
             <testcase
+                name="post_call"
+                time="3.145"
+                classname="Assignment.Testassignment2">
+            </testcase>
+            <testcase
                 name="put_call"
-                time="0.781"
+                time="0.966"
                 classname="Assignment.Testassignment2">
             </testcase>
             <testcase
                 name="get_call"
-                time="0.421"
-                classname="Assignment.Testassignment2">
-            </testcase>
-            <testcase
-                name="post_call"
-                time="2.787"
+                time="0.434"
                 classname="Assignment.Testassignment2">
             </testcase>
 </testsuite>
